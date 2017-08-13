@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-13T07:36:28.774Z</updated>
+  <updated>2017-08-13T08:20:12.510Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,17 +20,17 @@
     <link href="http://yoursite.com/HelloWorld/"/>
     <id>http://yoursite.com/HelloWorld/</id>
     <published>2017-08-13T06:55:25.000Z</published>
-    <updated>2017-08-13T07:36:28.774Z</updated>
+    <updated>2017-08-13T08:20:12.510Z</updated>
     
     <content type="html"><![CDATA[<h3 id="哈哈哈"><a href="#哈哈哈" class="headerlink" title="哈哈哈"></a>哈哈哈</h3><p>Helloworld！！！</p>
-<p><img src="images/avatar.jpg" alt="头像"></p>
+<p><img src="http://oum7on271.bkt.clouddn.com/avatar.jpg" alt="头像"></p>
 <a id="more"></a>
 ]]></content>
     
     <summary type="html">
     
       &lt;h3 id=&quot;哈哈哈&quot;&gt;&lt;a href=&quot;#哈哈哈&quot; class=&quot;headerlink&quot; title=&quot;哈哈哈&quot;&gt;&lt;/a&gt;哈哈哈&lt;/h3&gt;&lt;p&gt;Helloworld！！！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;images/avatar.jpg&quot; alt=&quot;头像&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://oum7on271.bkt.clouddn.com/avatar.jpg&quot; alt=&quot;头像&quot;&gt;&lt;/p&gt;
     
     </summary>
     
